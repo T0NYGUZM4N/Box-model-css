@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color: white;
+    background-color: #6e0dd0;
+    margin: 10px;
+    padding: 10px;
+    border: black;
+
+}
+
+.product{
+    height: 300px;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #0444b4;
+    
+}
+
+figure{
+    display: inline-block;
+    overflow: hidden;
+    
+}
+
+.izquierda{
+    color: white;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+.imagen-ajustada{
+    width: 300px;
+    height: 300px;
+}
